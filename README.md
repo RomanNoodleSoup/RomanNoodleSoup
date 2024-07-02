@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RomanNoodleSoup
+- 👀 I’m interested in Tech, Web Design, Linguistics and Foreign Language 
+- 🌱 I’m currently learning JavaScript, Web Development and CSS
+- 📫 How to reach me @RomanNoodleSoup on insta
+- 😄 Pronouns: He/Him
